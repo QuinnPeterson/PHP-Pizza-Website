@@ -38,6 +38,10 @@
 <?php include('templates/header.php'); ?>
 
 <div class="container center gray-text">
+
+    <img class="pizza-Image" src="./img/pizza.png" alt="Pizza image">
+
+
     <?php if($pizza){?>
 
     <h4><?php  echo htmlspecialchars($pizza["title"]); ?></h4>

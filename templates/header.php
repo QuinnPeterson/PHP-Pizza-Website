@@ -24,6 +24,13 @@
         font-size: 20px;
         text-align: center;
     }
+
+    .pizza-Image {
+        text-align: center;
+        padding: 20px;
+        width: 200px;
+        height: 200px;
+    }
     </style>
 </head>
 
