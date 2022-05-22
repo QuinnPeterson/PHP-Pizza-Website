@@ -12,8 +12,6 @@
     
     mysqli_close($conn);
 
-
-    
 ?>
 
 <!DOCTYPE html>
@@ -38,7 +36,8 @@
 
                     <!-- Card Content Start-->
                     <div class="card-content center">
-                        <h6><?php echo htmlspecialchars($pizza["title"]); ?></h6>
+                        <h5><b><?php echo htmlspecialchars($pizza["title"]); ?></b></h5>
+                        <hr>
                         <ul>
                             <?php foreach (explode(",", $pizza["ingredients"]) as $ing) { ?>
 

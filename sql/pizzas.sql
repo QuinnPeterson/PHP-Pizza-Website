@@ -51,6 +51,16 @@ INSERT INTO `pizzas` (`id`, `title`, `ingredients`, `created_at`, `email`) VALUE
 --
 ALTER TABLE `pizzas`
   ADD PRIMARY KEY (`id`);
+
+--
+-- AUTO_INCREMENT for dumped tables
+--
+
+--
+-- AUTO_INCREMENT for table `pizzas`
+--
+ALTER TABLE `pizzas`
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=4;
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
