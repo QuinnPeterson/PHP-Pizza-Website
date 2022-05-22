@@ -4,4 +4,27 @@ This was my first PHP project for school. The goal of the project was to make a 
 
 
 ## Website in action
-   <img align="center" src="https://github.com/QuinnPeterson/QuinnPeterson/blob/main/project%20gifs/php%20pizza%20website/viewing.gif" alt="viewing"/>
+<p align="center">
+   <img src="https://github.com/QuinnPeterson/QuinnPeterson/blob/main/project%20gifs/php%20pizza%20website/viewing.gif"/>
+
+   <br />
+   
+## Creating a Pizza
+   
+   <img src="https://github.com/QuinnPeterson/QuinnPeterson/blob/main/project%20gifs/php%20pizza%20website/editing.gif"/>
+   
+   <br />
+   
+## Deleting a Pizza
+   
+   <img src="https://github.com/QuinnPeterson/QuinnPeterson/blob/main/project%20gifs/php%20pizza%20website/ordering.gif"/>
+   
+   <br />
+   
+   ## Updating a Pizza
+   
+   <img src="https://github.com/QuinnPeterson/QuinnPeterson/blob/main/project%20gifs/php%20pizza%20website/editing.gif"/>
+   
+   <br />
+
+</p>
